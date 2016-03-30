@@ -1,24 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>WiyonoAten.Layer.Sdk.Xamarin.Android</id>
-        <version>0.19.2</version>
-        <title>Layer SDK Binding for Xamarin.Android</title>
+        <id>WiyonoAten.DaveMorrisseyLabs.SubsamplingScaleImageView.Xamarin.Android</id>
+        <version>3.4.1</version>
+        <title>com.davemorrissey.labs:subsampling-scale-image-view Binding for Xamarin.Android</title>
         <authors>Wiyono Aten</authors>
         <owners>wiyonoaten</owners>
-        <projectUrl>https://github.com/wiyonoaten/LayerAndroidSDKBinding</projectUrl>
+        <projectUrl>https://github.com/wiyonoaten/DavemorrisseyLabsSubsamplingScaleImageViewBinding</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Xamarin.Android binding for the Layer Android SDK.</description>
+        <description>Xamarin.Android binding for com.davemorrissey.labs:subsampling-scale-image-view.</description>
         <copyright />
-        <dependencies>
-            <dependency id="Xamarin.Android.Support.v4" version="23.1.1.0" />
-            <dependency id="Xamarin.GooglePlayServices.Base" version="27.0.0.0" />
-            <dependency id="Xamarin.GooglePlayServices.Basement" version="27.0.0.0" />
-            <dependency id="Xamarin.GooglePlayServices.Gcm" version="27.0.0.0" />
-        </dependencies>
     </metadata>
     <files>
-        <file src="..\..\LayerAndroidSDKBinding\LayerSdkBindingLib.Android\bin\Debug\LayerSdkBindingLib.Android.dll" target="lib\MonoAndroid\LayerSdkBindingLib.Android.dll" />
-        <file src="..\..\LayerAndroidSDKBinding\LayerSdkBindingLib.Android\bin\Debug\LayerSdkBindingLib.Android.pdb" target="lib\MonoAndroid\LayerSdkBindingLib.Android.pdb" />
+        <file src="..\bin\Debug\DaveMorrisseySubsamplingScaleImageViewBindingLib.Android.dll" target="lib\MonoAndroid\DaveMorrisseySubsamplingScaleImageViewBindingLib.Android.dll" />
+        <file src="..\bin\Debug\DaveMorrisseySubsamplingScaleImageViewBindingLib.Android.pdb" target="lib\MonoAndroid\DaveMorrisseySubsamplingScaleImageViewBindingLib.Android.pdb" />
     </files>
 </package>
