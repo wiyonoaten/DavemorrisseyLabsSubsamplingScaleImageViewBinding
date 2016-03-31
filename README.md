@@ -1,6 +1,13 @@
-# DavemorrisseyLabsSubsamplingScaleImageViewBinding
+## DavemorrisseyLabsSubsamplingScaleImageViewBinding
 
 Xamarin.Android binding for com.davemorrissey.labs:subsampling-scale-image-view. Also including C# port of the SampleApp.
+
+## Installation
+
+Package is available from NuGet. To install, run the following command in the Package Manager Console:
+```posh
+PM> Install-Package WiyonoAten.SubsamplingScaleImageView.Xamarin.Android
+```
 
 ## License
 
