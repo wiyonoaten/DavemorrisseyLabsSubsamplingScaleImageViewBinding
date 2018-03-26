@@ -2,3 +2,4 @@
 /DavemorrisseyLabsSubsamplingScaleImageViewBindingLib.Android/obj
 /DavemorrisseyLabsSubsamplingScaleImageViewBindingLib.Android/bin
 /.vs
+*.csproj.user
